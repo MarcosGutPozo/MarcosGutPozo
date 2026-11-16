@@ -24,7 +24,7 @@ Developed a framework for identifying optimal activation steering layers in larg
 
 Developed a model-agnostic framework based on persistent entropy to detect dispersion–condensation transitions in convolutional neural networks. The method identifies structural changes in the distribution of learned filters, providing insights into the evolution and interpretability of neural network representations. Validated on MNIST and CIFAR-10.
 
-- 📥 [Download PDF]()
+- 📥 [Download PDF](PE_detector_phase_transitions.pdf)
 - 📄 [arXiv](https://arxiv.org/abs/2602.09058)
 ---
 
